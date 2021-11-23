@@ -1,0 +1,23 @@
+{
+  "name": "mkr",
+  "version": "1.0.0",
+  "description": "> Create simple timer web app",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "sass": "^1.43.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anastasia21O/mkr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anastasia21O/mkr/issues"
+  },
+  "homepage": "https://github.com/Anastasia21O/mkr#readme"
+}

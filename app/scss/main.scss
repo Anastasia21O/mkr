@@ -1,0 +1,35 @@
+@import "variables";
+
+body{
+  display: flex;
+  width: 60vw;
+  height: 45vw;
+  align-items: center;
+  justify-content: center;
+}
+
+.virsta-play{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  border: black solid 3px;
+  width: 500px;
+  height: 500px;
+}
+
+.virsta-play-part {
+  display: flex;
+  width: 90px;
+  height: 90px;
+  background-color: white;
+  border: black solid 3px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  color: black;
+
+  strong{
+    font: 50px $font-number;
+    color: $color-number;
+  }
+}
