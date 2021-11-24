@@ -2,7 +2,6 @@ let play = document.querySelector('.virsta-play');
 let play_parts = document.querySelectorAll('.virsta-play-part');
 
 function start() {
-
     let random_number = randomUniqueNum(25, 25);
     let count = 0;
 
